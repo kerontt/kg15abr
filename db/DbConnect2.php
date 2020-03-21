@@ -1,4 +1,6 @@
 <?php
+
+// Second attempt to connect to DB
 $servername = "localhost:8889";
 $username = "root";
 $password = "root";
