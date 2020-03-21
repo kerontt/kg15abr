@@ -8,9 +8,9 @@
         	</head>
 	
 	<!-- header start -->
-        	<body>
+      	<body>
         	<div class="header">
-                  <a href="index.php" class="logo"><img src="../Concept1/13ddc981-403d-411d-a32b-47545f0aafa2_200x200-2.png" width="80px" height="80px"><br/>KGismoz</a>
+                  <a href="index.php" class="logo"><img src="../Concept1/Library/Images/Logo/13ddc981-403d-411d-a32b-47545f0aafa2_200x200-2.png" width="80px" height="80px"><br/>KGismoz</a>
                   <div class="header-right">
                     <a class="in-active" href="#home"></a>
                     <a href="contact.php">Contact</a>
@@ -88,7 +88,7 @@ if (isset($_REQUEST['Id']))
             echo "<class=\"productdescription\" <br/><H2>$thisProductName</H2>";
             echo "<class=\"productdescription p\" <br/><H3>$thisCaption</H3><br/>$thisProductDescription<br/><p>";
             echo "<class=\"productprice\" <br/><p>£$thisPrice</p>";
-            echo '<p><a href="#" class="cart-btn" role="Button">Add to Cart</a></p>';
+           
             
             
           
@@ -111,7 +111,7 @@ else{
 
 
 <!-- Footer class -->
-<div class="mainfooter">
+<div class="footer">
   		<p>KGismoz is a trademark of kg15abr</p>
   	<p>Email: kgismoz@gmail.com</p>
   	<p>VAT Registered No:01237654</p>
