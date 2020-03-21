@@ -2,8 +2,9 @@
 		<head>
 
 	<title>Index</title>
+		<link rel="icon" href="../Concept1/Library/Images/Logo/13ddc981-403d-411d-a32b-47545f0aafa2_200x200-2.png" type="image/gif" sizes="16x16">
 	<!-- stylesheet link(s) -->
-        	<link rel="stylesheet" href="style2.css">
+        	<link rel="stylesheet" href="../Concept1/Library/Style/style2.css">
         		<meta name="viewport" content="width=device-width, initial-scale=1">
         	</head>
 	
