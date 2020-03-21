@@ -87,8 +87,8 @@ input[type=submit]:hover {
 
 <!-- Form structure -->
 <div class="container">
-  <form action="/action_page.php">
-    <label for="fname">First Name</label>
+  <form action="action_page.php">
+    <label for="fsname">First Name</label>
     <input type="text" id="fsname" name="firstname" placeholder="Your full name..">
 
     <label for="lname">Email</label>
