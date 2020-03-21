@@ -1,4 +1,6 @@
 <?php
+
+// First successful connection file
 class DbConnect {
     private $host 	= 'localhost:8889';
     private $dbName = 'shop';
